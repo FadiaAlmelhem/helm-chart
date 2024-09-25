@@ -3,7 +3,7 @@ entries:
   helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-25T11:32:31.571521+03:00"
+    created: "2024-09-25T11:35:17.4802031+03:00"
     description: A Helm chart for Kubernetes
     digest: e5b6fe00035b3efd8d251cd117b17fe9102523e9fe8bcdf92e81e0f47bde45b7
     name: helm-chart
@@ -11,4 +11,15 @@ entries:
     urls:
     - https://FadiaAlmelhem.github.io/helm-chart/helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-25T11:32:31.571521+03:00"
+  helm-chart-1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-25T11:35:17.4812636+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 63a9f4324ee3af6903ac4c6a43cea0783cb5d2d5d32fa91c207b2a70e6e55ea6
+    name: helm-chart-1
+    type: application
+    urls:
+    - https://FadiaAlmelhem.github.io/helm-chart/helm-chart-1-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-09-25T11:35:17.4791445+03:00"
